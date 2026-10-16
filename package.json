@@ -1,0 +1,16 @@
+{
+  "name": "couchlight",
+  "version": "1.0.0",
+  "description": "Real-time watch party web app",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "loadtest": "node scripts/loadtest.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}

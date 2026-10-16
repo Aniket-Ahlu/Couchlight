@@ -1,0 +1,35 @@
+{
+  "count": 9,
+  "failed": [
+    {
+      "title": "Moments From NASA History",
+      "src": "https://nasa.gov/wp-content/uploads/2025/06/history-montage-2.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    },
+    {
+      "title": "Lunar Base, Zoom Out",
+      "src": "https://nasa.gov/wp-content/uploads/2026/05/moon-base-v-1-1-5-22-26.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    },
+    {
+      "title": "Upper Stage Separation",
+      "src": "https://nasa.gov/wp-content/uploads/2026/04/art002m1200920156-icps-separation-2orig.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    },
+    {
+      "title": "The Burn Toward the Moon",
+      "src": "https://nasa.gov/wp-content/uploads/2026/04/art002m1200922349-tli-burn-1.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    },
+    {
+      "title": "Moon, Near and Far",
+      "src": "https://nasa.gov/wp-content/uploads/2026/09/moon-phases-near-far-waxing-1080.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    },
+    {
+      "title": "Crescent Moon From the Spacecraft",
+      "src": "https://nasa.gov/wp-content/uploads/2026/04/output-progressive-182a999f-2b54-4fef-8636-def580cd3469.mp4",
+      "reason": "HTTP 206 (application/octet-stream)"
+    }
+  ]
+}
